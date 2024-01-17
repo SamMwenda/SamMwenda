@@ -3,9 +3,7 @@ Hey there! 👋 I'm Sammy Mawira Mwenda, a passionate Flutter Game Developer, th
 ## 🎮 About Nisa Pixel Games
 Nisa Pixel Games is where dreams take the form of 2D platformers. We specialize in crafting pixelated wonders using Flutter and the powerful Flame game engine. Each line of code is a step towards creating immersive gaming experiences.
 
-![Flame Engine Logo](https://docs.flame-engine.org/latest/_static/logo_flame.png)
-
-![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg) 
+![Flame Engine Logo](https://docs.flame-engine.org/latest/_static/logo_flame.png)  ![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg) 
 
 ## 🎨 Art Enthusiast
 Art is not just a medium; it's a way of expression. As an art enthusiast, I believe in the seamless fusion of code and creativity, where pixels come to life, telling stories through vibrant visuals.
