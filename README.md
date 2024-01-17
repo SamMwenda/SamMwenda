@@ -15,7 +15,7 @@ Contributing to the open-source community is a core part of my journey. Join me 
 Whether you're here to explore my projects, seek collaboration, or just to connect, feel free to dive into the repositories. Let the coding adventures begin!
 
 ### Connect with Me
-[![Instagram]()](https://www.instagram.com/nisapixelgames/) 
+[![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://www.instagram.com/nisapixelgames/) 
 
 [![Twitter](https://cdn-icons-png.flaticon.com/128/5969/5969020.png)](https://twitter.com/nisapixelgames)
 
