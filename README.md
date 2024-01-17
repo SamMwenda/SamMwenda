@@ -5,7 +5,7 @@ Nisa Pixel Games is where dreams take the form of 2D platformers. We specialize 
 
 ![Flame Engine Logo](https://docs.flame-engine.org/latest/_static/logo_flame.png)
 
-![Flutter Logo](https://icon-sets.iconify.design/skill-icons/flutter-dark/) 
+![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg) 
 
 ## 🎨 Art Enthusiast
 Art is not just a medium; it's a way of expression. As an art enthusiast, I believe in the seamless fusion of code and creativity, where pixels come to life, telling stories through vibrant visuals.
