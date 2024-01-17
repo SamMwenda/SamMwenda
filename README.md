@@ -15,6 +15,6 @@ Contributing to the open-source community is a core part of my journey. Join me 
 Whether you're here to explore my projects, seek collaboration, or just to connect, feel free to dive into the repositories. Let the coding adventures begin!
 
 ### Connect with Me
-[![Instagram](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg)](https://www.instagram.com/nisapixelgames/) [![Twitter](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png)](https://twitter.com/nisapixelgames)
+[![Instagram]()](https://www.instagram.com/nisapixelgames/) [![Twitter](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png)](https://twitter.com/nisapixelgames)
 
 Happy coding! 🌟
