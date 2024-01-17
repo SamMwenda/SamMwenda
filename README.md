@@ -18,3 +18,7 @@ Whether you're here to explore my projects, seek collaboration, or just to conne
 [![Instagram](https://cdn-icons-png.flaticon.com/128/3955/3955024.png)](https://www.instagram.com/nisapixelgames/)   [![Twitter](https://cdn-icons-png.flaticon.com/128/5969/5969020.png)](https://twitter.com/nisapixelgames)
 
 Happy coding! 🌟
+
+## 📊 GitHub Stats
+![Sammy Mawira Mwenda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamMwenda&show_icons=true&theme=radical)
+
